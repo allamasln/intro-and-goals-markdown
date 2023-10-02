@@ -1,6 +1,7 @@
 # Alberto Lobato Oliver
 
-[Portfolio - Modelado e Iluminación](https://www.artstation.com/artwork/03eq2G)
+[Portfolio - Modelado e Iluminación](https://www.artstation.com/alobato)
+![Imagen de portfolio](https://cdna.artstation.com/p/assets/images/images/065/522/232/large/alberto-lobato-oliver-albertolobato-casapulpopsd.jpg?1690563347)
 
 ## Un poco de mi
 

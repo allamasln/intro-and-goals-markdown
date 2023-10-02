@@ -1,6 +1,6 @@
 # Manuel Guerrero
 
-[Mi equipo favorito] (https://summa.es/wp-content/uploads/2022/07/barc%CC%A7a-thumbnail-1.png)
+![Mi equipo favorito] (https://summa.es/wp-content/uploads/2022/07/barc%CC%A7a-thumbnail-1.png)
 
 ## Mis hobbies
 - Ir al cine
